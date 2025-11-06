@@ -251,3 +251,4 @@ For issues and questions, please open an issue on the repository.
 
 **Note**: Make sure to configure your Supabase RLS (Row Level Security) policies appropriately for your use case. The current implementation uses the anonymous key, which should be restricted based on your security requirements.
 
+# Prospect Intelligence
